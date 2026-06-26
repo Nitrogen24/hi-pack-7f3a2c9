@@ -2001,16 +2001,8 @@ file = "config/refurbished_furniture.client.toml"
 hash = "f151762bc99261b0244618cb3cc856e4d1fe089b6cf9eaf7b23c42a9fbc57970"
 
 [[files]]
-file = "config/refurbished_furniture.client.toml.bak"
-hash = "3910a814528dae85fc3d09d6a3c31c2d420f611ee37a4b412d657259bf37318c"
-
-[[files]]
 file = "config/refurbished_furniture.server.toml"
 hash = "f4458979025a2bf08bcdc69da0f638394f8c5b15ab203735e497b9d4907ccafe"
-
-[[files]]
-file = "config/refurbished_furniture.server.toml.bak"
-hash = "76dea3d91757016d63c85b877b0cef4517b94b6998f84ceaff2ac91d538a8845"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -2855,26 +2847,6 @@ hash = "7bdf0c587aa3625d2c87f77ebb3e78812c43ae99e1c957ac9573a210b64ea81a"
 [[files]]
 file = "config/voidfog-client.toml"
 hash = "cb2b2d45835405f58f67b5c439b0a07da06c339016634ba5aa779964ab1df270"
-
-[[files]]
-file = "config/waterdripsound-client-1.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-2.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-3.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-4.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
-
-[[files]]
-file = "config/waterdripsound-client-5.toml.bak"
-hash = "09d637baa226275f201f2adbade0498545de0d1a44a6077ad2e633d95a4a296c"
 
 [[files]]
 file = "config/waterdripsound-client.toml"
