@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "apotheosis:other_tome",
+    "apotheosis:weapon_tome",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "farmersdelight:skillet",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:gauntlet_of_bulwark",
+    "cataclysm:gauntlet_of_maelstrom",
+    "cataclysm:the_incinerator",
+    "cataclysm:soul_render",
+    "cataclysm:the_annihilator",
+    "cataclysm:astrape",
+    "cataclysm:ceraunus",
+    "cataclysm:brontes",
+    "cataclysm:the_immolator",
+    "cataclysm:meat_shredder",
+    "cataclysm:void_forge",
+    "cataclysm:tidal_claws",
+    "cataclysm:infernal_forge",
+    "cataclysm:ancient_spear"
+  ],
+  "incompatible": [
+    "the_deep_void:radiance",
+    "minecraft:bane_of_arthropods",
+    "minecraft:sharpness",
+    "minecraft:smite"
+  ]
+}

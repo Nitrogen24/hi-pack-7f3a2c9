@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "apotheosis:other_tome"
+  ],
+  "incompatible": [
+    "the_deep_void:quick_trigger"
+  ]
+}

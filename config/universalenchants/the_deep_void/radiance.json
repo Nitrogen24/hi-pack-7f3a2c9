@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "apotheosis:other_tome",
+    "apotheosis:weapon_tome"
+  ],
+  "incompatible": [
+    "minecraft:bane_of_arthropods",
+    "minecraft:sharpness",
+    "the_deep_void:scourge_of_flesh",
+    "minecraft:smite"
+  ]
+}

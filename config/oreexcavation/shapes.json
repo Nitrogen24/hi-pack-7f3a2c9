@@ -1,0 +1,79 @@
+{
+  "shapes": [
+    {
+      "name": "ores",
+      "depth": 5,
+      "reverse": 5,
+      "reticle": 12,
+      "stride": 5,
+      "elevation": 5,
+      "mask": [
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX"
+      ]
+    },
+    {
+      "name": "stairs up",
+      "depth": -1,
+      "reverse": 0,
+      "reticle": 12,
+      "stride": 0,
+      "elevation": 0,
+      "mask": [
+        "OOOOO",
+        "OOXOO",
+        "OOXOO",
+        "OOOOO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "flattening",
+      "depth": -1,
+      "reverse": 0,
+      "reticle": 12,
+      "stride": 0,
+      "elevation": 0,
+      "mask": [
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "OOOOO",
+        "OOOOO"
+      ]
+    },
+    {
+      "name": "ores",
+      "depth": -1,
+      "reverse": 0,
+      "reticle": 12,
+      "stride": 3,
+      "elevation": 3,
+      "mask": [
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX"
+      ]
+    },
+    {
+      "name": "New Shape",
+      "depth": -3,
+      "reverse": 3,
+      "reticle": 12,
+      "stride": 0,
+      "elevation": 0,
+      "mask": [
+        "OOOOO",
+        "OXXXO",
+        "OXXXO",
+        "OXXXO",
+        "OOOOO"
+      ]
+    }
+  ]
+}

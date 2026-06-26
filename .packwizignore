@@ -1,0 +1,27 @@
+# Git / repo files
+.git/
+.gitignore
+.packwizignore
+README.md
+
+# Local junk
+logs/
+crash-reports/
+saves/
+screenshots/
+backups/
+_removed-big-files/
+
+# Caches
+Distant_Horizons_server_data/
+Distant_Horizons/
+XaeroWaypoints/
+XaeroWorldMap/
+journeymap/
+
+# Installer is supplied in the Prism instance, not installed through Packwiz
+packwiz-installer-bootstrap.jar
+
+# Known huge files if kept locally
+mods/L_Enders_Cataclysm-3.16.jar
+resourcepacks/TaxCreepyMusician+M.1.20.1+ResP.1.0.0.zip
