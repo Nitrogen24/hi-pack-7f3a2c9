@@ -3731,11 +3731,6 @@ hash = "daddd968a0ea5143411c882e2800aa97c9857d858c0df34d13ac0919ca19e86e"
 metafile = true
 
 [[files]]
-file = "mods/create-repair.pw.toml"
-hash = "fe7e74c8e842f3fbdbba031b0a4d32721509ae9dc5cc36a63ee78d906e06b0c5"
-metafile = true
-
-[[files]]
 file = "mods/create-stone-generators.pw.toml"
 hash = "6e25b45fb58d9608a6ef06e5982cad8785dbd55cf9ea89334d8b5223bc80a6e1"
 metafile = true
@@ -4079,11 +4074,6 @@ hash = "5b84359b24016eec679b273ae801f6e613968b06d29ecb7da0118011f4df386d"
 [[files]]
 file = "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
 hash = "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
-
-[[files]]
-file = "mods/mixinbooster.pw.toml"
-hash = "22f9313ff4357b8d30a8dbc15c5dfe15a82509cb63fda5fb066846b750f6e824"
-metafile = true
 
 [[files]]
 file = "mods/modernfix-forge-5.27.40%2Bmc1.20.1.jar"
