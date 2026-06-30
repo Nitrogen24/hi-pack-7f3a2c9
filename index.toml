@@ -3701,12 +3701,37 @@ file = "mods/create-1.20.1-6.0.8.jar"
 hash = "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
 
 [[files]]
+file = "mods/create-compact-exp.pw.toml"
+hash = "e4fd1ae025b0a22248ff23df1cbeaf0c433d113bb95e2e16a509ecdc9c55c427"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "ae0249ad6127e0142f69f3c034140b466a14b76b88ecb38f129eed502ecad517"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "ada0bedd4f218fcbacd4613ecc331a5381c7aa9127852d1de83ff95afeb41b60"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age-1.2.0+forge-mc1.20.1.jar"
 hash = "4020388be67c4f13e2fcf28f630f5cb66e04421f0373deea6732423604f2d80e"
 
 [[files]]
+file = "mods/create-qol.pw.toml"
+hash = "daddd968a0ea5143411c882e2800aa97c9857d858c0df34d13ac0919ca19e86e"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions1.20.1_v2.1.2.jar"
 hash = "65d60a6bb7a53629af094260046a64e5c76a7950824fd4a3797fc07b1f01cd7e"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
 
 [[files]]
 file = "mods/create_central_kitchen-1.20.1-for-create-6.0.8-1.5.0.jar"
@@ -4370,6 +4395,11 @@ hash = "6bd3a6cdd705d86fd25981ac96daf4504e27d01ee2b8f9aada745f86f2e17de1"
 [[files]]
 file = "resourcepacks/cassette+music+discs+1.20+v1.2.zip"
 hash = "2c7f234d870e7fb88499f487b2af24b72f52229b3e99611a69f16576b028ff1a"
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
+metafile = true
 
 [[files]]
 file = "resourcepacks/v2_REFRESH_Building_Gadgets_Create_Like.zip"
