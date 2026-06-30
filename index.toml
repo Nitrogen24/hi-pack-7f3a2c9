@@ -3697,17 +3697,23 @@ file = "mods/crashexploitfixer-forge-2.0.0+1.20.4-all-srg.jar"
 hash = "3685a6eddebe66e25cabe0a96bdbe32031b0d3f21702ee9051d350c63833d09d"
 
 [[files]]
-file = "mods/create-1.20.1-6.0.8.jar"
-hash = "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
+file = "mods/create-blocks-bogies.pw.toml"
+hash = "d6d7fe6a648a5001449b4a3056afe1856a1d51cb74d6ccd1503e1d9aefaa633e"
+metafile = true
 
 [[files]]
-file = "mods/create-compact-exp.pw.toml"
-hash = "e4fd1ae025b0a22248ff23df1cbeaf0c433d113bb95e2e16a509ecdc9c55c427"
+file = "mods/create-compatible-storage.pw.toml"
+hash = "41d259541a73c3645913f1e5b8b6b25223c953ce9b31f2bc67018213c0f31678"
 metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
 hash = "ae0249ad6127e0142f69f3c034140b466a14b76b88ecb38f129eed502ecad517"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-botany.pw.toml"
+hash = "079d89b3825901d04103e895f80439f502c19da80749d8bda481d6a4fb128ada"
 metafile = true
 
 [[files]]
@@ -3722,6 +3728,16 @@ hash = "4020388be67c4f13e2fcf28f630f5cb66e04421f0373deea6732423604f2d80e"
 [[files]]
 file = "mods/create-qol.pw.toml"
 hash = "daddd968a0ea5143411c882e2800aa97c9857d858c0df34d13ac0919ca19e86e"
+metafile = true
+
+[[files]]
+file = "mods/create-repair.pw.toml"
+hash = "fe7e74c8e842f3fbdbba031b0a4d32721509ae9dc5cc36a63ee78d906e06b0c5"
+metafile = true
+
+[[files]]
+file = "mods/create-stone-generators.pw.toml"
+hash = "6e25b45fb58d9608a6ef06e5982cad8785dbd55cf9ea89334d8b5223bc80a6e1"
 metafile = true
 
 [[files]]
@@ -4005,7 +4021,7 @@ hash = "58362ec29cd96508a716bdc43c4e31be6413dea6b6c6c165b9950b51f02e9b27"
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
+hash = "d5e9d6c87865f90c3382e0f7932eb2ad83817b85950db6587a2d7d9d920af33d"
 metafile = true
 
 [[files]]
@@ -4065,8 +4081,18 @@ file = "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
 hash = "933e2a7e79c4594f965f7f7d00b1f28a98ec2a180ad8f9f90310a266fe5cf5d8"
 
 [[files]]
+file = "mods/mixinbooster.pw.toml"
+hash = "22f9313ff4357b8d30a8dbc15c5dfe15a82509cb63fda5fb066846b750f6e824"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-forge-5.27.40%2Bmc1.20.1.jar"
 hash = "0061a53c0335693318073788c57c5288f5b8b5b3918c7561f5fb7860a394611f"
+
+[[files]]
+file = "mods/more-create-burners.pw.toml"
+hash = "87a18dd02891925f6405d50db118ca55487cd58bc428b9f655342b9d9396af3f"
+metafile = true
 
 [[files]]
 file = "mods/mowzies_cataclysm-1.2.1.jar"
@@ -4083,6 +4109,10 @@ hash = "37f346bc4294d34a74ac0239ceeb943cc6ecf7cbfcdd7d3667f276b91c17cb36"
 [[files]]
 file = "mods/nethersdelight-1.20.1-4.0.jar"
 hash = "28b072bc5c09ee889468546676c9bf0268eaa415865704bbeeb33f6a37005a30"
+
+[[files]]
+file = "mods/nocube's_create_compact_exp_1.0.4_forge_1.20.1.jar"
+hash = "d78ca1e5a5b072983c07b1442c235b75bbc1b6b866628744c40705134636ecb0"
 
 [[files]]
 file = "mods/nyfsspiders-Forge-1.20.1-3.0.1.jar"
@@ -4411,7 +4441,7 @@ hash = "133e4db054e73a10017a1f429c80c35cd5bfa9c3a1aba581b364ecc459c48a4b"
 
 [[files]]
 file = "servers.dat"
-hash = "bd4c84722756b278cd4cd897fd12bf37a0cfaabd1b112cb78e71d8cc2ba081b3"
+hash = "a54143cfb1efcb8ff73fb42d0942703f9f3a0f7b01044b6ba7e5400045581066"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.2/ComplementaryLicense.txt"

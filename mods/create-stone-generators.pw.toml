@@ -1,0 +1,13 @@
+name = "Create: Easy Stone Generators"
+filename = "create_generators-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f54e756cd6b640f9a79a852564fd1159c1f2b304"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6224618
+project-id = 1206505
